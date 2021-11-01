@@ -212,7 +212,7 @@
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 1"
   },
   "bin": {
-    "typeorm": "./cli.js"
+    "typeorm": "./src/cli.js"
   },
   "funding": "https://opencollective.com/typeorm",
   "collective": {
